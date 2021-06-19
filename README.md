@@ -8,3 +8,5 @@
 
 ### Preview
 ![ss1](https://user-images.githubusercontent.com/64016811/122528623-29a08b80-d03a-11eb-900f-ad12c7860432.jpg)
+
+### Link to the website : https://yogafit.netlify.app/
