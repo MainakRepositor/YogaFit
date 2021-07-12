@@ -7,6 +7,11 @@
 <hr>
 
 ### Preview
-![ss1](https://user-images.githubusercontent.com/64016811/122528623-29a08b80-d03a-11eb-900f-ad12c7860432.jpg)
+
+
+
+https://user-images.githubusercontent.com/64016811/125259683-2d63bd00-e31d-11eb-863a-1560622bdbac.mp4
+
+
 
 ### Link to the website : https://yogafit.netlify.app/
